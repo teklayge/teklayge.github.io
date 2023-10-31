@@ -18,6 +18,7 @@ Ethiopia
 
 ### WORK EXPERIENCE
 **Feb 14, 2023 – current | Project Developer, part-time volunteer**
+
 Being Human For Humanity (BHFH), Local Humanitarian Organization, Mekelle, Ethiopia
 
 Key tasks accomplished:
@@ -25,6 +26,7 @@ Key tasks accomplished:
 Hygiene Promotion in Adigrat IDP sites and Host Community, Tigray, Ethiopia
 
 **Mar 10, 2015 – current | Lecturer**
+
 School of Electrical & Computer Engineering, Ethiopian Institute of Technology-Mekelle, Mekelle University, Ethiopia
 
 Key tasks accomplished:
@@ -35,9 +37,11 @@ Key tasks accomplished:
 - Served as a team leader and member of various technical evaluation ad-hoc committees in Mekelle University
 
 **Jul 08, 2014 - Mar 09, 2015 | Senior Network Administrator**
+
 ICT Directorate Office, Mekelle University
 
 **Oct 01, 2007 - Sep 11, 2011 | Network Administrator**
+
 ICT Directorate Office, Mekelle University
 
 ### CERTIFICATIONS
@@ -57,6 +61,7 @@ Feb 25, 2011
 - Delivered a hands-on training on design and implementation of Enterprise Campus network for ICT experts of the Tigray ICT Agency (in 2015)
 - Conducted a training on Advanced Network Security and Linux System Administration for ICT experts of Tigray ICT Agency (in 2017)
 - Delivered hands-on training for ICT experts of Tigray ICT Agency on implementing security policies on Cisco ASA Firewall (in 2019)
+  
 #### Consultancy Services
 - Designed and Implemented network installation project at Mekelle Prison Administration office (in 2015)
 - IT Consultant at Meles Academy construction site (2018 to 2020)
