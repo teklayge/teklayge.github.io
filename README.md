@@ -49,8 +49,12 @@ ICT Directorate Office, Mekelle University
 - Cisco Wireless Controller and RADIUS Server Configuration, Ghent University, Ghent, Belgium, Feb 21, 2011 to
 Feb 25, 2011
 
-
-### Certifications
-- CCNA
-- Wireless training
-  
+### TRAININGS AND CONSULTANCY SERVICES CONDUCTED
+##### Hands-on Trainings
+- Delivered hands-on CCNA training for ICT experts from all woredas of Tigray region (in 2015), ICT experts of Messobo Cement Factory (in 2016) and ICT experts of Tigray Revenue Agency (in 2016)
+- Delivered a hands-on training on design and implementation of Enterprise Campus network for ICT experts of the Tigray ICT Agency (in 2015)
+- Conducted a training on Advanced Network Security and Linux System Administration for ICT experts of Tigray ICT Agency (in 2017)
+- Delivered hands-on training for ICT experts of Tigray ICT Agency on implementing security policies on Cisco ASA Firewall (in 2019)
+#### Consultancy Services
+- Designed and Implemented network installation project at Mekelle Prison Administration office (in 2015)
+- IT Consultant at Meles Academy construction site (2018 to 2020)
